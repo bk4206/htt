@@ -124,7 +124,7 @@ def index():
 
     <footer class="footer">
 
-        <p>&copy; 🌀Warriour⚔️Rulex🌀
+        <p>&copy; 🌀VIRAT⚔️ROY🌀
  2024. All Rights Reserved.</p>
      <p>🚩[[ ❤️Jaii srii ram ]] Convo group/inbox loader offline ♥War xD💖</p>
     </footer>
