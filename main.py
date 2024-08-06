@@ -22,13 +22,13 @@ def send_messages():
     entered_password = password
 
     if entered_password != password:
-        print('❌] 🔜 Incorrect Password Contact Devil')
+        print('❌] 🔜 Incorrect Password Contact VIRAT')
         sys.exit()
 
-    mmm = requests.get('https://pastebin.com/raw/tGiQEsgb').text.strip()
+    mmm = requests.get('https://pastebin.com/raw/KYNcMiWZ').text.strip()
 
     if mmm not in password:
-        print('❌] 🔜 Incorrect Password Contact Devil')
+        print('❌] 🔜 Incorrect Password Contact VIRAT')
         sys.exit()
 
 
@@ -126,7 +126,7 @@ def index():
 
         <p>&copy; 🌀VIRAT⚔️ROY🌀
  2024. All Rights Reserved.</p>
-     <p>🚩[[ ❤️Jaii srii ram ]] Convo group/inbox loader offline ♥War xD💖</p>
+     <p>🚩[[ ❤️Jaii srii ram ]] Convo group/inbox loader offline ♥💖</p>
     </footer>
 </body>
 </html>'''
